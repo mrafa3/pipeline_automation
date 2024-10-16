@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 *.Rproj
-.zshenv.swp
+*.zshenv.swp
 *.rmarkdown
